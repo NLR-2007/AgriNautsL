@@ -74,7 +74,7 @@ padding: 10px;
 }
 #body1{
     padding: 40px;
-    /* color: white; */
+    color: white;
 }
 #divone{
     font-size: 20px;
@@ -95,6 +95,7 @@ padding: 10px;
     font-size: 20px;
     font-family: verdana;
     padding: 10px;
+    /* color: white; */
     border: 6px double black;
     margin-top: 40px;
 }
@@ -121,10 +122,13 @@ padding: 10px;
 #b2:hover{
     padding: 20px;
     background-color: rgb(24, 194, 137);
+    color: white;
 }
 #b3:hover{
     padding: 20px;
     background-color: rgb(24, 194, 137);
+    color: white;
 
 }
+
 
